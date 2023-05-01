@@ -1,4 +1,4 @@
-title: John Doe # your name (or website title) here
+title: Abhishek Sinha # your name (or website title) here
 logo: "/images/Profile_pic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Science Manager,leading AI solutioning & E2E delivery for clients on choice of their cloud (AWS/Azure/GCP). 
@@ -12,7 +12,7 @@ description: > # your text below (remove <br> elements if you don't need line br
  - Graph Data Science
  - Foundation Models 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/abhisheksinha0987/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:

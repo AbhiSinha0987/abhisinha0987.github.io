@@ -1,9 +1,16 @@
 title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/Profile_pic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Science Manager,leading AI solutioning & E2E delivery for clients on choice of their cloud (AWS/Azure/GCP). 
+  More than 7 years of experience in building Data & Analytics pipelines. 
+  Around 6 years of experience on building & delivering ML and MLOps solutions.
   <br><br>
-  Second description 
+  Currently working on new trends:
+ - Sustainable AI
+ - Industry 4.0
+ - Industrial IoT Pipelines from OT to IT
+ - Graph Data Science
+ - Foundation Models 
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
